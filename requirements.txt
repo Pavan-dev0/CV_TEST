@@ -1,0 +1,9 @@
+streamlit
+easyocr
+pytesseract
+opencv-python-headless
+pillow
+pandas
+scikit-learn
+nltk
+sentence-transformers
